@@ -4,7 +4,7 @@
 
 Este projeto implementa um sistema de integração de pedidos utilizando o framework **Apache Camel** para processamento e roteamento de pedidos de uma livraria. O sistema demonstra padrões de integração empresarial (EIP - Enterprise Integration Patterns) para conectar diferentes sistemas através de mensageria JMS, serviços REST e SOAP.
 
-> **Projeto Educacional**: Desenvolvido com base no curso "Apache Camel: O Framework de Integração entre Sistemas" da **DevMedia**.
+> **Projeto Educacional**: Desenvolvido com base no curso "Apache Camel: O Framework de Integração entre Sistemas" da **Alura**.
 
 ## 🎯 Objetivo do Projeto
 
@@ -442,7 +442,7 @@ Este projeto demonstra os seguintes tópicos do curso:
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido como parte do curso **"Apache Camel: O Framework de Integração entre Sistemas"** da **DevMedia**.
+Projeto desenvolvido como parte do curso **"Apache Camel: O Framework de Integração entre Sistemas"** da **Alura**.
 
 ## 📄 Licença
 
@@ -450,4 +450,4 @@ Projeto educacional para fins de aprendizado.
 
 ---
 
-**Desenvolvido com Apache Camel** 🐪 | **DevMedia Course** 📚
+**Desenvolvido com Apache Camel** 🐪 | **Alura Course** 📚
